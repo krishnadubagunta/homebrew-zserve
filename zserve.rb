@@ -2,7 +2,7 @@ class Zserve < Formula
   desc "Lightweight Zig-based HTTP shell server"
   homepage "https://github.com/krishnadubagunta/zserve"
   url "https://github.com/krishnadubagunta/zserve/archive/refs/tags/1.0.0.tar.gz"
-  sha256 "7bd4ba20fa11c616f5ed95bdbc8e3538541718e8e78fb995677bfb4fc8e4c341"
+  sha256 "712572f003bd660b5c5f74fee27cf22012a630207c2ccb51c1516f085fc95c79"
   license "MIT"
 
   def install
